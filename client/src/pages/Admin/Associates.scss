@@ -1,0 +1,13 @@
+// table responsive css
+.table-container{
+  overflow-x: auto;
+  table {
+    th{
+      white-space: nowrap;
+    }
+    td {
+      white-space: nowrap;
+    }
+  }
+}
+
